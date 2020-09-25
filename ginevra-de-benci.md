@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app/essay/jstor-labs/iiif/ginevra-de-benci"><img src="https://jstor-labs.github.io/visual-essays/images/ve-button.png"></a>
 
-<param ve-config banner="https://free.iiifhosting.com/iiif/a50b36d92153db8db436cff50ab37345ad482823e756d48585829e9a20cdc2c3/pct:0,52,100,38/full/0/default.jpg" layout="vtl" title="Ginevra de' Benci" author="Leonardo da Vinci">
+<param ve-config banner="https://free.iiifhosting.com/iiif/a50b36d92153db8db436cff50ab37345ad482823e756d48585829e9a20cdc2c3/pct:0,52,100,38/full/0/gray.jpg" layout="vtl" title="Ginevra de' Benci" author="Leonardo da Vinci">
 
 # IIIF examples
 
@@ -44,3 +44,6 @@ Here's another example using an external IIF manifest.  This manifest URL was fo
 [^5]: Brown (2003)
 [^6]: Wallace, Robert (1966). The World of Leonardo: 1452–1519. New York: Time-Life Books. p. 48.
 [^7]: White, Susan D. (2006). Draw Like Da Vinci. London: Cassell Illustrated. ISBN 9781844034444, pp.114-115.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzMzQxNTAwXX0=
+-->
