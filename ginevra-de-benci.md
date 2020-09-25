@@ -30,7 +30,7 @@ At some point, the bottom of the painting was removed, presumably owing to damag
 ## External manifests
 
 This paragraph provide an example of using external manifest in a visual essay.  Librarys, museums and other content sites often use IIIF to view content images online and sometimes provide a link to the IIIF manifests.  In this example we're using a manifest from the National Gallery of Art.  Wellcome Library.
-<param ve-image primary manifest="https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=50724">
+<param ve-image primary manifest="https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest.json?cultObj:id=50724">
 
 Here's another example using an external IIF manifest.  This manifest URL was found on the Wellcome Library website. 
 <param ve-image manifest="https://wellcomelibrary.org/iiif/b18035723/manifest?manifest=https://wellcomelibrary.org/iiif/b18035723/manifest">
