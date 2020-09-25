@@ -17,7 +17,7 @@
 Ginevra de' Benci, a well-known young Florentine woman, is universally considered to be the portrait's sitter. Leonardo painted the portrait in Florence between 1474 and 1478, possibly to commemorate Ginevra's marriage to Luigi di Bernardo Niccolini at the age of 16. More likely, it commemorates the engagement. Commonly, contemporary portraits of females were commissioned for either of two occasions: betrothal or marriage. Wedding portraits traditionally were created in pairs, with the woman on the right, facing left; since this portrait faces right, it more likely represents betrothal.[^3]
 <param ve-map prefer-geojson center="Q2044" zoom="7" basemap="Stamen_TerrainBackground">
 
-The <span data-mouseover-image-zoomto="6642,307,2220,3721">juniper bush</span> that surrounds Ginevra's head and fills much of the background, serves more than mere decorative purposes. In Renaissance Italy, the juniper was regarded a symbol of female virtue, while the Italian word for juniper, ginepro, also makes a play on Ginevra's name.[^4] The imagery and text on the reverse of the panel further support the identification of this picture. The reverse is decorated with a juniper sprig encircled by a wreath of laurel and palm and is memorialized by the phrase Virtvtem Forma Decorat ("Virtue Adorns Beauty").
+The <span data-click-image-zoomto="6642,307,2220,3721">juniper bush</span> that surrounds Ginevra's head and fills much of the background, serves more than mere decorative purposes. In Renaissance Italy, the juniper was regarded a symbol of female virtue, while the Italian word for juniper, ginepro, also makes a play on Ginevra's name.[^4] The imagery and text on the reverse of the panel further support the identification of this picture. The reverse is decorated with a juniper sprig encircled by a wreath of laurel and palm and is memorialized by the phrase Virtvtem Forma Decorat ("Virtue Adorns Beauty").
  <param ve-image iiif manifest="manifests/Ginevra_de_Benci-reverse.json">
 
 The Latin motto Virtvtem Forma Decorat on the reverse of the portrait, is understood as symbolizing the intricate relationship between Ginevra's intellectual and moral virtue on the one hand, and her physical beauty on the other. The sprig of juniper, encircled by laurel and palm, suggests her name. The laurel and palm are in the personal emblem of Bernardo Bembo, a Venetian ambassador to Florence whose platonic relationship with Ginevra is revealed in poems exchanged between them. Infrared examination has revealed Bembo's motto "Virtue and Honor" beneath Ginevra's, making it likely that Bembo was somehow involved in the commission of the portrait.
@@ -45,5 +45,6 @@ Here's another example using an external IIF manifest.  This manifest URL was fo
 [^6]: Wallace, Robert (1966). The World of Leonardo: 1452–1519. New York: Time-Life Books. p. 48.
 [^7]: White, Susan D. (2006). Draw Like Da Vinci. London: Cassell Illustrated. ISBN 9781844034444, pp.114-115.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODIzNzMzLC0yMzM0MTUwMF19
+eyJoaXN0b3J5IjpbLTIzMzQxNTAwLDkzMTgyMzczMywtMjMzND
+E1MDBdfQ==
 -->
