@@ -25,6 +25,9 @@ The portrait is one of the highlights of the National Gallery of Art, and is adm
 
 At some point, the bottom of the painting was removed, presumably owing to damage, and Ginevra's arms and hands are thought to have been lost.[^6] Using the golden section, Susan Dorothea White has drawn [an interpretation](http://www.susandwhite.com.au/enlarge.php?workID=162) of how her arms and hands may have been positioned in the original.[^7] The adaptation is based on drawings of hands by Leonardo thought to be studies for this painting.
 
+This paragraph provide an example of using external manifest in a visual essay.  Librarys, museums and other content sites often use IIIF to view content images online and sometimes provide a link to the IIIF manifests.  In this example we're using a manifest from the Wellcome Library.
+<param ve-image manifest="https://wellcomelibrary.org/iiif/b18035723/manifest?manifest=https://wellcomelibrary.org/iiif/b18035723/manifest">
+
 ## References
 
 [^1]: "Ginevra de' Benci". National Gallery of Art. D.C. Retrieved 16 November 2014.
