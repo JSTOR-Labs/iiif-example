@@ -34,7 +34,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.visual-essays.app/images/1cd158a15b69271cc4efeaeef844210ecb1272ddcaefe415b31bbe3d/full/full/0/default.png",
+                "@id": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
                 "@type": "dctypes:Image",
                 "height": 11110,
                 "width": 10483,
