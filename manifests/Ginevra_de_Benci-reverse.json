@@ -31,7 +31,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://free.iiifhosting.com/iiif/a50b36d92153db8db436cff50ab37345ad482823e756d48585829e9a20cdc2c3/full/full/0/default.jpg",
+                "@id": "https://upload.wikimedia.org/wikipedia/commons/1/12/Leonardo_da_Vinci_-_Wreath_of_Laurel%2C_Palm%2C_and_Juniper_with_a_Scroll_inscribed_Virtutem_Forum_Decorat_%28reverse%29_-_Google_Art_Project.jpg",
                 "@type": "dctypes:Image",
                 "height": 10683,
                 "width": 10315,
