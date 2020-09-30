@@ -1,59 +1,98 @@
 [
     {
-        "type": "Annotation",
         "body": [
             {
+                "purpose": "commenting",
                 "type": "TextualBody",
-                "value": "Right eye",
-                "purpose": "commenting"
+                "value": "Left eye"
             }
         ],
+        "id": "http://annotations.visual-essays.app/ve/a6457db8-10a1-462f-9d0e-16445c7b7c2e",
         "target": {
+            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb3168b5785e2735a980d7e7fb99173fcf238d5526aa29872963a4ffd3750",
             "selector": {
-                "type": "FragmentSelector",
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
-                "value": "xywh=pixel:6274,3673,1033,1325"
-            },
-            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316"
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:4621.46533203125,3745.511474609375,1278.029296875,1303.337158203125"
+            }
         },
-        "@context": "http://www.w3.org/ns/anno.jsonld"
+        "type": "Annotation",
     },
     {
-        "type": "Annotation",
         "body": [
             {
+                "purpose": "commenting",
                 "type": "TextualBody",
-                "value": "Da Vinci fingerprint",
-                "purpose": "commenting"
+                "value": "Hair curls"
             }
         ],
+
+        "id": "http://annotations.visual-essays.app/ve/jstor-labs--iiif--ginevra-de-benci--1f1bb316--039eed95",
         "target": {
+            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316",
             "selector": {
-                "type": "FragmentSelector",
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:3213.38134765625,4922.8583984375,987.7197265625,1685.70849609375"
+            }
+        },
+        "type": "Annotation",
+    },
+    {
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "Da Vinci fingerprint"
+            }
+        ],
+        "id": "http://annotations.visual-essays.app/ve/jstor-labs--iiif--ginevra-de-benci--1f1bb316--0cd991cf",
+        "target": {
+            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
                 "value": "xywh=pixel:7325,6121,883,792"
-            },
-            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316"
+            }
         },
-        "@context": "http://www.w3.org/ns/anno.jsonld"
+        "type": "Annotation",
     },
     {
-        "type": "Annotation",
         "body": [
             {
+                "purpose": "commenting",
                 "type": "TextualBody",
-                "value": "Fern",
-                "purpose": "commenting"
+                "value": "Fern"
             }
         ],
+        "id": "http://annotations.visual-essays.app/ve/jstor-labs--iiif--ginevra-de-benci--1f1bb316--302fa709",
         "target": {
+            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316",
             "selector": {
-                "type": "FragmentSelector",
                 "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
                 "value": "xywh=pixel:8355,1983,968,926"
-            },
-            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316"
+            }
         },
-        "@context": "http://www.w3.org/ns/anno.jsonld"
+        "type": "Annotation",
+    },
+    {
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "Right eye"
+            }
+        ],
+        "id": "http://annotations.visual-essays.app/ve/jstor-labs--iiif--ginevra-de-benci--1f1bb316--5bc984c4",
+        "target": {
+            "id": "https://visual-essays.app/jstor-labs/iiif/ginevra-de-benci/1f1bb316",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:6274,3673,1033,1325"
+            }
+        },
+        "type": "Annotation",
     }
 ]
