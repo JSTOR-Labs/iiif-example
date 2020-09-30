@@ -16,7 +16,6 @@
  <param ve-image iiif="https://upload.wikimedia.org/wikipedia/commons/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg"
  attribution="Wikimedia Commons"
  label="Da Vinci self portrait">
- <param ve-image iiif manifest="https://iiif.harvardartmuseums.org/manifests/object/299843">
 
 Ginevra de' Benci, a well-known young Florentine woman, is universally considered to be the portrait's sitter. Leonardo painted the portrait in Florence between 1474 and 1478, possibly to commemorate Ginevra's marriage to Luigi di Bernardo Niccolini at the age of 16. More likely, it commemorates the engagement. Commonly, contemporary portraits of females were commissioned for either of two occasions: betrothal or marriage. Wedding portraits traditionally were created in pairs, with the woman on the right, facing left; since this portrait faces right, it more likely represents betrothal.[^3]
 <param ve-map prefer-geojson center="Q2044" zoom="7" basemap="Stamen_TerrainBackground">
