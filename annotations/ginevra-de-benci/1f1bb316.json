@@ -16,7 +16,7 @@
                 "value": "xywh=pixel:4621.46533203125,3745.511474609375,1278.029296875,1303.337158203125"
             }
         },
-        "type": "Annotation",
+        "type": "Annotation"
     },
     {
         "body": [
@@ -36,7 +36,7 @@
                 "value": "xywh=pixel:3213.38134765625,4922.8583984375,987.7197265625,1685.70849609375"
             }
         },
-        "type": "Annotation",
+        "type": "Annotation"
     },
     {
         "body": [
@@ -55,7 +55,7 @@
                 "value": "xywh=pixel:7325,6121,883,792"
             }
         },
-        "type": "Annotation",
+        "type": "Annotation"
     },
     {
         "body": [
@@ -74,7 +74,7 @@
                 "value": "xywh=pixel:8355,1983,968,926"
             }
         },
-        "type": "Annotation",
+        "type": "Annotation"
     },
     {
         "body": [
@@ -93,6 +93,6 @@
                 "value": "xywh=pixel:6274,3673,1033,1325"
             }
         },
-        "type": "Annotation",
+        "type": "Annotation"
     }
 ]
