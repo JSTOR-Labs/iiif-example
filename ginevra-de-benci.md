@@ -15,8 +15,11 @@
  <span eid="Q1267893">Ginevra de' Benci</span> is a portrait painting by Leonardo da Vinci of the 15th-century Florentine aristocrat <span eid="Q3494135">Ginevra de' Benci</span> (born c.  1458).[^1] The oil-on-wood portrait was acquired by the National Gallery of Art in Washington, D.C. in 1967. The sum of US$5 million—an absolute record price at the time—came from the Ailsa Mellon Bruce Fund and was paid to the Princely Family of Liechtenstein. It is the only painting by Leonardo on public view in the Americas.[^2]
  <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg"
  attribution="Wikimedia Commons"
- label="Da Vinci self portrait">
+ label="Da Vinci self portrait"
+ license="Public domain">
  <param ve-image manifest="https://iiif.harvardartmuseums.org/manifests/object/299843">
+ <param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Charnel_House_at_St_Helens_Church%2C_Cliffe%2C_Kent%2C_England%2C_2015-05-06-5136.jpg"
+ label="Charnel House at St Helens Church, Cliffe, Kent, England">
 
 Ginevra de' Benci, <span data-a well-known young Florentine woman, is universally considered to be the portrait's sitter. Leonardo painted the portrait in Florence between 1474 and 1478, possibly to commemorate Ginevra's marriage to Luigi di Bernardo Niccolini at the age of 16. More likely, it commemorates the engagement. Commonly, contemporary portraits of females were commissioned for either of two occasions: betrothal or marriage. Wedding portraits traditionally were created in pairs, with the woman on the right, facing left; since this portrait faces right, it more likely represents betrothal.[^3]
 <param ve-map prefer-geojson center="Q2044" zoom="7" basemap="Stamen_TerrainBackground">
